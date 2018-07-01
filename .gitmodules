@@ -1,0 +1,3 @@
+[submodule "tumblr-utils"]
+	path = tumblr-utils
+	url = git@github.com:kstenerud/tumblr-utils.git
